@@ -2,7 +2,7 @@ import React from 'react';
 import useFetch from '../../useFetch';
 
 const Leaderboard = () => {
-  const { info, isPending, errors } = useFetch("http://localhost:5000/user");
+  const { info, isPending, errors } = useFetch("https://quizquest-plum.vercel.app/userInfo.json");
 
   return (
     <div className="flex flex-col items-center bg-gray-100 min-h-screen p-6">

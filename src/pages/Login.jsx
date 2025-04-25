@@ -25,7 +25,7 @@ const Login = () => {
     e.preventDefault();
 
     try {
-      const response = await fetch("http://localhost:5000/user");
+      const response = await fetch("https://quizquest-plum.vercel.app/userInfo.json");
       const users = await response.json();
 
       const user = users.find(

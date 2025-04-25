@@ -21,7 +21,7 @@ const Result = () => {
     // Fetch the user data from userInfo.json
     const fetchUser = async () => {
       try {
-        const response = await fetch(`http://localhost:5000/user/${userId}`);
+        const response = await fetch(`https://quizquest-plum.vercel.app/userInfo.json/${userId}`);
         const user = await response.json();
         if (user && user.username) {
           setUsername(user.username); // Set the username from the fetched data
