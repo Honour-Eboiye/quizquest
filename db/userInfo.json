@@ -1,0 +1,241 @@
+{
+  "user": [
+    {
+      "id": "001",
+      "username": "default_user",
+      "email": "default@default.com",
+      "password": "default",
+      "score": 0
+    },
+    {
+      "id": "cfdc",
+      "username": "silverg",
+      "email": "honoureboiye@gmail.com",
+      "password": "Ww2.!:_!~j%],&a",
+      "score": 0,
+      "timeElapsed": 4
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the value of x in the equation 2x + 5 = 15?",
+      "options": [
+        "x = 10",
+        "x = 5",
+        "x = 2.5",
+        "x = -5"
+      ],
+      "answer": "x = 5"
+    },
+    {
+      "id": "q2",
+      "question": "What is the formula for calculating the force exerted on an object in Newton's second law of motion?",
+      "options": [
+        "F = ma",
+        "F = mv",
+        "F = m + a",
+        "F = m/a"
+      ],
+      "answer": "F = ma"
+    },
+    {
+      "id": "q3",
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion",
+        "Golgi body"
+      ],
+      "answer": "Mitochondrion"
+    },
+    {
+      "id": "q4",
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Gd",
+        "Go"
+      ],
+      "answer": "Au"
+    },
+    {
+      "id": "q5",
+      "question": "What does 'HTTP' stand for in web development?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Tech Text Protocol",
+        "Hyperlink Transfer Program",
+        "Host Transfer Text Protocol"
+      ],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "id": "q6",
+      "question": "What is the primary purpose of a bridge rectifier in electrical circuits?",
+      "options": [
+        "Convert AC to DC",
+        "Amplify signal",
+        "Reduce voltage",
+        "Measure resistance"
+      ],
+      "answer": "Convert AC to DC"
+    },
+    {
+      "id": "q7",
+      "question": "What is the area of a triangle with a base of 10 cm and a height of 5 cm?",
+      "options": [
+        "25 cm²",
+        "50 cm²",
+        "30 cm²",
+        "15 cm²"
+      ],
+      "answer": "25 cm²"
+    },
+    {
+      "id": "q8",
+      "question": "What is the speed of light in a vacuum?",
+      "options": [
+        "3.0 × 10^8 m/s",
+        "1.5 × 10^8 m/s",
+        "3.0 × 10^6 m/s",
+        "9.8 m/s²"
+      ],
+      "answer": "3.0 × 10^8 m/s"
+    },
+    {
+      "id": "q9",
+      "question": "What is the process by which plants convert sunlight into energy called?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": "q10",
+      "question": "What is the pH value of a neutral solution?",
+      "options": [
+        "7",
+        "0",
+        "14",
+        "5"
+      ],
+      "answer": "7"
+    },
+    {
+      "id": "q11",
+      "question": "Solve for y: 3y - 7 = 11.",
+      "options": [
+        "y = 6",
+        "y = 5",
+        "y = 4",
+        "y = 7"
+      ],
+      "answer": "y = 6"
+    },
+    {
+      "id": "q12",
+      "question": "What is the unit of electrical resistance?",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "Ohm"
+    },
+    {
+      "id": "q13",
+      "question": "What is the name of the molecule that carries genetic information in living organisms?",
+      "options": [
+        "RNA",
+        "Protein",
+        "Enzyme",
+        "DNA"
+      ],
+      "answer": "DNA"
+    },
+    {
+      "id": "q14",
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "14"
+      ],
+      "answer": "6"
+    },
+    {
+      "id": "q15",
+      "question": "What is the primary function of a CPU in a computer?",
+      "options": [
+        "Store data",
+        "Connect to the internet",
+        "Process instructions",
+        "Display output"
+      ],
+      "answer": "Process instructions"
+    },
+    {
+      "id": "q16",
+      "question": "What is the term for the maximum stress a material can withstand without permanent deformation?",
+      "options": [
+        "Elastic limit",
+        "Yield strength",
+        "Breaking point",
+        "Tensile modulus"
+      ],
+      "answer": "Elastic limit"
+    },
+    {
+      "id": "q17",
+      "question": "What is the derivative of f(x) = x²?",
+      "options": [
+        "2x",
+        "x",
+        "x²",
+        "1"
+      ],
+      "answer": "2x"
+    },
+    {
+      "id": "q18",
+      "question": "What is the term for the bending of light as it passes from one medium to another?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "id": "q19",
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Liver",
+        "Skin",
+        "Heart",
+        "Lungs"
+      ],
+      "answer": "Skin"
+    },
+    {
+      "id": "q20",
+      "question": "What is the common name for H₂O?",
+      "options": [
+        "Salt",
+        "Hydrogen peroxide",
+        "Water",
+        "Oxygen"
+      ],
+      "answer": "Water"
+    }
+  ]
+}
